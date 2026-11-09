@@ -1,4 +1,4 @@
-# G09 智慧吸塵車（Smart Vacuum Car）
+# 智慧吸塵車（Smart Vacuum Car）
 
 國立臺灣大學 生物機電工程學系　機電整合（四）期末專題　第 9 組
 
