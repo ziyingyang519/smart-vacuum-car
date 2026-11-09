@@ -226,4 +226,3 @@ cd ~/robot_control && python3 app.py
 ## 參考
 
 - [jacksonliam/mjpg-streamer](https://github.com/jacksonliam/mjpg-streamer)
-- [Avidityyds/rpi-web-robot-control](https://github.com/Avidityyds/rpi-web-robot-control)（學長留下的參考專案）
